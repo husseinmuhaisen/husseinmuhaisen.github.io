@@ -11,14 +11,6 @@ I started hacking early on, always was interested in everything really that gets
 
 I believe in integrity, nobility, and honesty.
 
-“A vision is feasible for the visionary and impractical for the vision less”
+“A vision is feasible for the visionary and impractical for the vision less” “BE careful from who you take advice from”
 
-“BE careful from who you take advice from”
-
-“Do great work! and always question the current thing”
-
-“Give to be given”
-
-“Consider impact as a major metric of success”
-
-“Old inventions are closest to first principles”
+“Do great work! and always question the current thing” “Give to be given” “Consider impact as a major metric of success” “Old inventions are closest to first principles”
