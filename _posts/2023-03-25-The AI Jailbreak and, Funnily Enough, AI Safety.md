@@ -1,7 +1,7 @@
 <h2 style="text-align: left;">&nbsp;
 <div style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEoImIzaKa9CLfscVJq1xLC2OelRI8eBDkaa9VJMBOeGHYKZslv33wJWUQ5D6D2eLqRHeMVHPe23KlQCuwPSxerdLxlFeWqP0n5m38JkixEJ-0UerCZ0FiWBJKAmrJa7_MBJv7xlSC_RBZZsD7L_b6cn4ns_TH5M_HHoUeWMSVp1Rb8pw8UHp9v4ee/s3072/safetu.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="AI Safety" border="0" data-original-height="2048" data-original-width="3072" height="316" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEoImIzaKa9CLfscVJq1xLC2OelRI8eBDkaa9VJMBOeGHYKZslv33wJWUQ5D6D2eLqRHeMVHPe23KlQCuwPSxerdLxlFeWqP0n5m38JkixEJ-0UerCZ0FiWBJKAmrJa7_MBJv7xlSC_RBZZsD7L_b6cn4ns_TH5M_HHoUeWMSVp1Rb8pw8UHp9v4ee/w474-h316/safetu.jpg" title="AI Safety" width="474" /></a></div></h2>
 <h2 style="text-align: left;"></h2>
-<h2 style="text-align: left;"><span style="font-family: verdana;">Let's talk about AI safety especially that I come from a Cybersecurity background.</span></h2>
+<h2 style="text-align: left;"><span style="font-family: verdana;">AI safety they said?.</span></h2>
 <h2 style="text-align: left;"><span style="font-family: verdana;">&nbsp;</span></h2>
 <h2 style="text-align: left;"><span style="font-family: verdana;">Every new innovation comes with its problems and safety concerns. In order to implement counter measures we need to see the effect and the safety concerns that comes out of it in other words the innovation in this case AI needs to be used and adopted just like we have adopted the internet, like that we will have a clearer vision on how to approach security measures and implement them.</span></h2>
 <h2 style="text-align: left;"><span style="font-family: verdana;">&nbsp;</span></h2>
