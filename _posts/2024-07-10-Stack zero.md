@@ -28,7 +28,7 @@ int main(int argc, char **argv)
 
 # Investigating further
 
-**Running `man gets` 
+Running `man gets` 
 ![Pasted image 20240709223941](https://github.com/husseinmuhaisen/husseinmuhaisen.github.io/assets/59100756/b4c32f48-9808-494e-a0f6-5026a24d1868)
 ![Pasted image 20240709224151](https://github.com/husseinmuhaisen/husseinmuhaisen.github.io/assets/59100756/eb6cf375-7356-4120-b574-c33e39455bce)
 
