@@ -25,11 +25,7 @@ To give you an idea of how ChatGPT responds when asking it for fake credit cards
 </p>
 
 <p>
-As you can see, it won't allow you to obtain such information, even if you try to circumvent the system by saying, for example, "for educational purposes."
-</p>
-
-<p>
-I thought of this model, which I believe is at the core of jailbreaking, and security measures should follow a similar model approach when implemented. Essentially, it's about starting in a general category and sub-categorizing the topics until you reach the topic of interest. Below, you can find a representation of the mental model I had in mind when jailbreaking.
+As you can see, it won't allow you to obtain such information, even if you try to circumvent the system by saying, for example, "for educational purposes." I thought of this model, which I believe is at the core of jailbreaking, and security measures should follow a similar model approach when implemented. Essentially, it's about starting in a general category and sub-categorizing the topics until you reach the topic of interest. Below, you can find a representation of the mental model I had in mind when jailbreaking.
 </p>
 
 <p>
