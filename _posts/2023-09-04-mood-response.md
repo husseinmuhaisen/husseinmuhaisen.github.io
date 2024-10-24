@@ -1,7 +1,7 @@
 
-# Mood response
+# Mood Response
 
-Mood response I may or may not have coined, basically, I have noticed that people treat others and respond to others based on their current moods I think this tells a lot about the person and most of the people are like that what differentiate others from a "Mood responder" to a let's say a leader, is that a true leader will be able to put his mood aside from the responses he emits to the people around him this is a really strong skill to have to be able to separate your mood from your responses. Let me give you an example.
+Mood Response I may or may not have coined, basically, I have noticed that people treat others and respond to others based on their current moods I think this tells a lot about the person and most of the people are like that what differentiate others from a "Mood responder" to a let's say a leader, is that a true leader will be able to put his mood aside from the responses he emits to the people around him this is a really strong skill to have to be able to separate your mood from your responses. Let me give you an example.
 
 **Example 1: Negative Response**
 Let's consider a situation where a cashier is in a bad mood when dealing with a customer.
