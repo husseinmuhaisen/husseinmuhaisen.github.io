@@ -1,15 +1,15 @@
 
-# Mood response Introduction
+# Mood response
 
 Mood response I may or may not have coined, basically, I have noticed that people treat others and respond to others based on their current moods I think this tells a lot about the person and most of the people are like that what differentiate others from a "Mood responder" to a let's say a leader, is that a true leader will be able to put his mood aside from the responses he emits to the people around him this is a really strong skill to have to be able to separate your mood from your responses. Let me give you an example.
 
 **Example 1: Negative Response**
 Let's consider a situation where a cashier is in a bad mood when dealing with a customer.
 
-**Cashier:** "Hey, how can I help?"
-**Customer:** "Where is the electronic appliances area?"
-**Cashier:** "Can't you see it? It's right in front of you!"
-**Customer:** "Oh, okay, thank you."
+- **Cashier:** "Hey, how can I help?"
+- **Customer:** "Where is the electronic appliances area?"
+- **Cashier:** "Can't you see it? It's right in front of you!"
+- **Customer:** "Oh, okay, thank you."
 
 In this example, the cashier is having a bad day. Their response is rude and aggressive. While I'm not a psychologist I believe that mood significantly influences how we treat others. If the cashier had been in a good mood, they might have responded politely. This applies to customers as well. Now, I'll give an example of someone in a good mood.
 
@@ -17,10 +17,10 @@ In this example, the cashier is having a bad day. Their response is rude and agg
 
 **Example 2: Positive Response**
 
-**Cashier:** "Hey, how can I help?"
-**Customer:** "Where is the electronic appliances area?"
-**Cashier:** "Hope you're having a great day! If you go straight and then left, you'll find it. Let me know if you have any other inquiries."
-**Customer:** "Thank you so much."
+- **Cashier:** "Hey, how can I help?"
+- **Customer:** "Where is the electronic appliances area?"
+- **Cashier:** "Hope you're having a great day! If you go straight and then left, you'll find it. Let me know if you have any other inquiries."
+- **Customer:** "Thank you so much."
 
 In this scenario, the cashier is having a great day and responds positively and politely. Previously, their negative response might have been due to issues with their boss, but now they're responding positively—perhaps because they just received their salary.
 
@@ -33,10 +33,10 @@ You see the difference. What sets someone apart—and I think this trait is rare
 **Example 3: The "Mood Leader"**
 In this example, the cashier is angry with their boss but manages to separate their mood from their interaction with the customer.
 
-**Cashier:** "Hey, how can I help?"
-**Customer:** "Where is the electronic appliances area?"
-**Cashier:** "Hope you're having a great day! If you go straight and then left, you'll find it. Let me know if you have any other inquiries."
-**Customer:** "Thank you so much."
+- **Cashier:** "Hey, how can I help?"
+- **Customer:** "Where is the electronic appliances area?"
+- **Cashier:** "Hope you're having a great day! If you go straight and then left, you'll find it. Let me know if you have any other inquiries."
+- **Customer:** "Thank you so much."
 
 Here, the cashier is what I call a "mood leader"—someone who can separate their mood from their responses toward others. Despite being in a bad mood, they respond positively to the customer.
 
