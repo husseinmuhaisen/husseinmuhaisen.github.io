@@ -3,7 +3,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"justify"} -->
-<p class="has-text-align-justify">Mood response is a term I invented, basically, I have noticed that people treat others and respond to others based on their current moods I think this tells a lot about the person and most of the people are like that what differentiate others from a "Mood responder" to a let's say a leader, is that a true leader will be able to put his mood aside from the responses he emits to the people around him this is a really strong skill to have to be able to separate your mood from your responses. Let me give you an example,</p>
+<p class="has-text-align-justify">Mood response is a term I invented. Basically, I have noticed that people treat and respond to others based on their current moods. I think this tells a lot about a person, and most people behave in this way. What differentiates a "mood responder" from, let's say, a leader is that a true leader is able to put their mood aside from the responses they give to the people around them. This is a really strong skill to have—to be able to separate your mood from your responses. Let me provide you with an example.
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
