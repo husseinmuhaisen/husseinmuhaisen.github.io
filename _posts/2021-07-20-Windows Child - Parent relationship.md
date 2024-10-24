@@ -22,8 +22,9 @@ You should get a long list of running processes as shown in the following image:
  	<li><b>type "cmd"</b></li>
  	<li><b>press "Enter"</b></li>
  	<li><b>type "title parent"</b></li>
+  <li><b>type "start cmd</b></li>
  	<li>
-<p style="box-sizing: inherit; grid-column: main-start / main-end; margin: 45px 0px 0px;">type "start cmd<b><span style="color: #333333; font-family: Muli, sans-serif;"><span style="background-color: white; font-weight: 400;">"</span></span></b></p>
+<p style="box-sizing: inherit; grid-column: main-start / main-end; margin: 45px 0px 0px;"><span style="color: #333333; font-family: Muli, sans-serif;"><span style="background-color: white; font-weight: 400;">"</span></span></p>
 </li>
 </ol>
 <b>
