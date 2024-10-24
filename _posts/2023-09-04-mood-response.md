@@ -8,7 +8,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><br><strong>Example 1</strong>: Here I will demonstrate an example with a cashier having a bad mood with a customer this also falls for the customer too.<br>Cashier: Hey how can I help?</p>
+<p><br><strong>Example 1: Negative Response</strong>Let's consider a situation where a cashier is in a bad mood when dealing with a customer.
+  <br>Cashier: "Hey, how can I help?"
+  <br>Customer: "Where is the electronic appliances area?"
+  <br>Cashier: "Can't you see it? It's right in front of you!"
+  <br>Customer: "Oh, okay, thank you."
+
+In this example, the cashier is having a bad day. Their response is rude and aggressive. While I'm not a I believe that mood significantly influences how we treat others. If the cashier had been in a good mood, they might have responded politely. This applies to customers as well. Now, I'll give an example of someone in a good mood.
+
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
