@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -22,7 +21,7 @@ To give you an idea of how ChatGPT responds when asking it for fake credit cards
 </p>
 
 <p>
-<img src="Pasted image 20241024172152.png" alt="ChatGPT refusing to provide fake credit card details">
+<img src="https://drive.google.com/file/d/10s8TzFFI43m96laNE3T92M9qqj9UfEqX/view" alt="ChatGPT refusing to provide fake credit card details">
 </p>
 
 <p>
