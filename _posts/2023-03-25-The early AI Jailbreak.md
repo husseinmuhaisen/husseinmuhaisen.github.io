@@ -33,7 +33,7 @@ I thought of this model, which I believe is at the core of jailbreaking, and sec
 </p>
 
 <p>
-<img src="Pasted image 20241024172623.png" alt="Mental model for jailbreaking">
+<img src="attachments/Pasted image 20241024172623.png" alt="Mental model for jailbreaking">
 </p>
 
 <p>
