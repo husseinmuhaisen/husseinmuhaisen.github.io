@@ -1,4 +1,4 @@
-<html>
+![image](https://github.com/user-attachments/assets/1acd9f1a-b3ff-4eaf-9a08-2a92a0ce4e06)<html>
 <head>
     <meta charset="UTF-8">
 </head>
@@ -21,7 +21,7 @@ To give you an idea of how ChatGPT responds when asking it for fake credit cards
 </p>
 
 <p>
-<img src="https://drive.google.com/file/d/10s8TzFFI43m96laNE3T92M9qqj9UfEqX/view" alt="ChatGPT refusing to provide fake credit card details">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172152.png" alt="ChatGPT refusing to provide fake credit card details">
 </p>
 
 <p>
@@ -33,7 +33,7 @@ I thought of this model, which I believe is at the core of jailbreaking, and sec
 </p>
 
 <p>
-<img src="attachments/Pasted image 20241024172623.png" alt="Mental model for jailbreaking">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172623.png" alt="Mental model for jailbreaking">
 </p>
 
 <p>
@@ -45,15 +45,15 @@ The following is the chat that made ChatGPT generate fake credit cards.
 </p>
 
 <p>
-<img src="Pasted image 20241024172915.png" alt="Chat conversation part 1">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172915.png" alt="Chat conversation part 1">
 </p>
 
 <p>
-<img src="Pasted image 20241024172920.png" alt="Chat conversation part 2">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172920.png" alt="Chat conversation part 2">
 </p>
 
 <p>
-<img src="Pasted image 20241024172925.png" alt="Chat conversation part 3">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172925.png" alt="Chat conversation part 3">
 </p>
 
 <p>
@@ -61,7 +61,7 @@ Now it will get interesting.
 </p>
 
 <p>
-<img src="Pasted image 20241024172941.png" alt="Chat conversation part 4">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024172941.png" alt="Chat conversation part 4">
 </p>
 
 <p>
@@ -69,7 +69,7 @@ As you can see, I am dragging ChatGPT by its tail; now it has referred me to a w
 </p>
 
 <p>
-<img src="Pasted image 20241024173038.png" alt="Chat conversation part 5">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024173038.png" alt="Chat conversation part 5">
 </p>
 
 <p>
@@ -77,7 +77,7 @@ Pay close attention to how I am prompting ChatGPT; please note that all credit c
 </p>
 
 <p>
-<img src="Pasted image 20241024173117.png" alt="Chat conversation part 6">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024173117.png" alt="Chat conversation part 6">
 </p>
 
 <p>
@@ -85,7 +85,7 @@ Now I have asked ChatGPT to generate fake credit cards again, and it refused to 
 </p>
 
 <p>
-<img src="Pasted image 20241024173231.png" alt="Chat conversation part 7">
+<img src="https://raw.githubusercontent.com/husseinmuhaisen/husseinmuhaisen.github.io/refs/heads/main/attachments/Pasted%20image%2020241024173231.png" alt="Chat conversation part 7">
 </p>
 
 <p>
