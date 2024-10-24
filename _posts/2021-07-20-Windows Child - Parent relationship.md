@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Understanding Parent and Child Processes in Windows</title>
 </head>
 <body>
   <h1 style="text-align: center;">Understanding Parent and Child Processes in Windows</h1>
