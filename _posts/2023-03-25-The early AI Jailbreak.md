@@ -9,7 +9,7 @@ Every new innovation comes with its problems and security concerns. In order to 
 </p>
 
 <p>
-It isn't clear how we are going to approach AI security just yet. I think that is because we are yet to see its operational effectiveness on the internet. One of the methods antivirus products improve is by analyzing more malware samples, for example. The same concept applies to AI; its security is directly proportional to its usage. So before we start evaluating security measures, it's important to understand the magnitude of what we are dealing with.
+It isn't clear how we are going to approach AI security just yet. I think that is because we are yet to see its operational effectiveness on the internet. One of the methods antivirus products improve is by reversing more malware samples, for example. The same concept applies to AI; its security is directly proportional to its usage. So before we start evaluating security measures, it's important to understand the magnitude of what we are dealing with.
 </p>
 
 <p>
