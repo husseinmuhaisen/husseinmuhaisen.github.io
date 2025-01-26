@@ -7,9 +7,4 @@ I started hacking into computers early on, played lots of video games made some 
 Some quotes I wrote: “A vision is feasible for the visionary and impractical for the vision less”  “Do great work! and always question the current thing” “Give to be given”.
 
 ---
-
-<div align="center">
-
 **GPG**: [publickey.txt](https://github.com/husseinmuhaisen/husseinmuhaisen.github.io/blob/main/husseinmuhaisen-public-keys.txt)
-
-</div>
