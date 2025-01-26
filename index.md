@@ -8,4 +8,8 @@ Some quotes I wrote: “A vision is feasible for the visionary and impractical f
 
 ---
 
-**GPG**: [Download here](https://github.com/husseinmuhaisen/husseinmuhaisen.github.io/blob/main/husseinmuhaisen-public-keys.txt)
+<div align="center">
+
+**GPG**: [publickey.txt](https://github.com/husseinmuhaisen/husseinmuhaisen.github.io/blob/main/husseinmuhaisen-public-keys.txt)
+
+</div>
